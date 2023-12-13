@@ -1,2 +1,2 @@
 # TinDog
-It is a website made using HTML, CSS, Bootstrap and Java script.
+It is a website made using HTML and CSS
